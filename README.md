@@ -1,1 +1,1 @@
-# JavaScriptAllBasicProject
+# JavaScriptSmallBasicProject
